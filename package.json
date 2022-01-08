@@ -1,12 +1,12 @@
 {
-  "name": "ndjson-to-geojson",
+  "name": "@bovenland/ndjson-to-geojson",
   "version": "1.0.0",
-  "description": "",
+  "description": "Converts newline delimited JSON to GeoJSON",
   "main": "ndjson-to-geojson.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Bert Spaan",
   "license": "ISC",
   "dependencies": {
     "highland": "^2.13.5"
