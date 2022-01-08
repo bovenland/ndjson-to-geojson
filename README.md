@@ -1,4 +1,4 @@
-# ndjson-to-geojson
+# @bovenland/ndjson-to-geojson
 
 Converts [newline delimited JSON](http://ndjson.org/) to a GeoJSON FeatureCollection:
 
