@@ -14,7 +14,7 @@ const features = H(process.stdin)
       id: undefined,
       geometry: undefined
     },
-    geometry: line.geometry
+    geometry: line.geometry || null
   }))
   .compact()
   .map(JSON.stringify)
